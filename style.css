@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.link-g1 a{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #555555;
+    text-decoration: none;
+    margin: 0 35px 42px 17px;
+}
+
+.main-titulo{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    margin: 42px 235px 0 236px;
+    color: #111111;
+}
+
+.sumario{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 33px 366px 0 235px;
+    color: #555555;
+}
+
+.info-autor .nome-autor{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 33px 0 0 235px;
+}
+
+.info-autor .nome-autor span{
+    font-weight: 400;
+}
+
+.info-autor .data-publicacao{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 12px 0 26px 235px;
+}
+
+.separador{
+    border-bottom: 1px solid #B0AFAF;
+    margin: 0 210px 69px 210px;
+}
+
+main p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin: 14px 374px 14px 375px;
+}
+
+.highlight{
+    font-weight: 700;
+    color: #A6130A;
+}
+
+.lista-bala {
+    margin: 0 382px 0 383px;
+    list-style-position: inside;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    padding-left: 7px;
+}
+
+.lista-bala li{
+    margin-bottom: 24px;
+    color: #A6130A;
+}
+
+.story-section h3{
+    margin: 18.5px 374px 32px 375px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.story-section h2{
+    margin: 0 374px 25px 375px;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.story-section blockquote{
+    color: #333333;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+    margin: 22px 386px 24px 375px;
+    border-left: 3px solid #A6130A;
+    padding-left: 14px;
+}
+
+footer p{
+    text-align: center;
+}
